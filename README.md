@@ -14,9 +14,9 @@ builds the webpage.
 
 ### Creating new pages
 
-1. Create a Markdown file in the `sources/` directory. For example:
+1. Create a Markdown file in the `source/` directory. For example:
     ```text
-    touch sources/mypage.md
+    touch source/mypage.md
     ```
 2. Fill it with contents. It supports [MyST Markdown](https://mystmd.org/guide/quickstart-myst-markdown),
    a superset of standard Markdown. The header will be used as the title of your
@@ -27,7 +27,7 @@ builds the webpage.
     Here I can write my **bold**, *italics*, and <u>underlined</u> text.
     ```
 3. Add your page to the index. To do that, append the name of the file (relative
-   to the `sources/` directory) in the `sources/index.rst` file. For example:
+   to the `source/` directory) in the `source/index.rst` file. For example:
     ```rst
     Main title
     ==========
