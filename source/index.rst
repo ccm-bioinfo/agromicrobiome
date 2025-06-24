@@ -12,11 +12,3 @@ Welcome to Agromicrobiome's documentation!
 
    sample_page1.md
    sample_page2.md
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
