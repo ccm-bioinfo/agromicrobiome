@@ -6,18 +6,18 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Agromicrobiome Manual'
+project = 'Agromicrobiome'
 copyright = '2025, César Aguilar, Fernando Fontove-Herrera, David A. García-Estrada, Haydeé Contreras-Peruyero, Anton Pashkov, Shaday Guerrero-Flores, Nelly Sélem-Mojica'
 author = 'César Aguilar, Fernando Fontove-Herrera, David A. García-Estrada, Haydeé Contreras-Peruyero, Anton Pashkov, Shaday Guerrero-Flores, Nelly Sélem-Mojica'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['myst_parser']
 
 templates_path = ['_templates']
 exclude_patterns = []
-
+source_suffix = ['.rst', '.md']
 
 
 # -- Options for HTML output -------------------------------------------------
