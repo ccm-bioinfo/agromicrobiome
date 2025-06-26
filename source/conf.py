@@ -25,3 +25,5 @@ source_suffix = ['.rst', '.md']
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+html_favicon = '_static/logo_MicroAgroBiome.png'  # Path to the favicon file
+html_css_files = ['custom.css'] # Custom CSS file for additional styling (DAVID)

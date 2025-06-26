@@ -1,0 +1,35 @@
+/* No border */
+table.docutils {
+    border: none !important;
+    border-collapse: collapse !important;
+    background: none !important;
+    box-shadow: none !important;
+    margin: 0 !important;
+}
+
+table.docutils td, 
+table.docutils th {
+    border: none !important;
+    padding: 0 !important;
+    background: transparent !important;
+    margin: 0 !important;
+}
+
+able.docutils tr:hover {
+    background: transparent !important;
+}
+
+.logo-darkbg {
+    background-color: #000 !important;
+    padding: 10px !important;
+    display: inline-block !important;
+    border-radius: 0 !important;
+}
+
+/* background color */
+.logo-darkbg {
+    background-color: #000;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 0; /* Bordes cuadrados */
+}
