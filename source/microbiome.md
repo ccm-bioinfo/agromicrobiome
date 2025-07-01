@@ -20,7 +20,7 @@ Click on a `SAMPLE` to access detailed information about the sample. This inform
 
 Additionally, you can dowload the different files associated with the sample, such as `FASTA`, `GeneBank`, `Functional Annotation`, `Resistances`, and `BGC` files, which are essential for further analysis.
 
-## PAVIAN-like
+## Comparative table
 
 Contains detailed data on microbial presence and abundance, including `NAME`, `RANK`, `TID`, `MAX`, `RELATIVE ABUNDANCE` of each sample, etc.
 
