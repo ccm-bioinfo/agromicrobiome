@@ -52,9 +52,9 @@ The results will display two tables:
 
 ![Metagenome Results Samples](./_static/search_by_metagenome_results_samples.png)
 
-   - **PAVIAN-like Table**: Contains detailed data on microbial presence and abundance, including `NAME`, `RANK`, `TID`, `MAX`, `RELATIVE ABUNDANCE` of each sample, etc.
+   - **Comparative table**: Contains detailed data on microbial presence and abundance, including `NAME`, `RANK`, `TID`, `MAX`, `RELATIVE ABUNDANCE` of each sample, etc.
 
-![Metagenome Results PAVIAN](./_static/search_by_metagenome_results_pavian.png)
+![Metagenome Results Comparative](./_static/search_by_metagenome_results_pavian.png)
 
 ### By Plant Disease
 

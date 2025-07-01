@@ -1,35 +1,66 @@
-/* No border */
+/* ==================== */
+/* TABLE STYLING */
+/* ==================== */
+
+/* Remove all borders and styling from docutils tables */
 table.docutils {
-    border: none !important;
-    border-collapse: collapse !important;
-    background: none !important;
-    box-shadow: none !important;
-    margin: 0 !important;
+    border: none !important;            /* Remove table border */
+    border-collapse: collapse !important; /* Collapse cell borders */
+    background: none !important;       /* Transparent background */
+    box-shadow: none !important;       /* Remove any shadow effects */
+    margin: 0 !important;              /* Remove default margins */
 }
 
+/* Style for all table cells (td) and headers (th) */
 table.docutils td, 
 table.docutils th {
-    border: none !important;
-    padding: 0 !important;
-    background: transparent !important;
-    margin: 0 !important;
+    border: none !important;           /* Remove cell borders */
+    padding: 0 !important;             /* Remove default padding */
+    background: transparent !important; /* Transparent background */
+    margin: 0 !important;              /* Remove default margins */
 }
 
-able.docutils tr:hover {
-    background: transparent !important;
+/* Remove hover effect on table rows */
+table.docutils tr:hover {
+    background: transparent !important; /* Keep background transparent on hover */
 }
 
+/* ==================== */
+/* LOGO STYLING */
+/* ==================== */
+
+/* Dark background logo container */
 .logo-darkbg {
-    background-color: #000 !important;
-    padding: 10px !important;
-    display: inline-block !important;
-    border-radius: 0 !important;
+    background-color: #000 !important; /* Black background */
+    padding: 10px !important;         /* Add 10px padding around logo */
+    display: inline-block !important;  /* Display as inline block */
+    border-radius: 0 !important;       /* Square corners (no rounding) */
 }
 
-/* background color */
+/* Alternative declaration for dark background logo */
 .logo-darkbg {
-    background-color: #000;
-    padding: 10px;
-    display: inline-block;
-    border-radius: 0; /* Bordes cuadrados */
+    background-color: #000;            /* Black background */
+    padding: 10px;                    /* Add 10px padding around logo */
+    display: inline-block;             /* Display as inline block */
+    border-radius: 0;                  /* Square corners (no rounding) */
+}
+
+/* ==================== */
+/* SIDEBAR LAYOUT */
+/* ==================== */
+
+/* Increase left sidebar width */
+div.sphinxsidebar {
+    width: 300px !important;          /* Set width to 300px (default is 220px) */
+}
+
+/* Adjust main content area to prevent overlap */
+div.document {
+    width: auto;                      /* Let content width be automatic */
+    margin-left: 320px !important;    /* 300px sidebar + 20px margin */
+}
+
+/* Optional: Adjust body wrapper width if needed */
+div.bodywrapper {
+    margin-left: 320px !important;    /* Match document margin */
 }

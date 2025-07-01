@@ -6,6 +6,11 @@
 Welcome to Agromicrobiome's documentation!
 =================================================
 
+.. image:: _static/logo_MicroAgroBiome.png
+   :width: 300px
+   :alt: Texto alternativo
+   :align: center
+
 MicroAgrobiome gathers metagenomes collected from agriculturally relevant plants.
 
 We processed these samples to obtain taxonomic and functional information about the plant-associated microbiome in a standardized way.
@@ -16,18 +21,23 @@ All scripts and code are available on `Github <https://github.com/nselem/microag
 
 The CONAHCYT 320237 project funded this application. 
 
+.. rst-class:: centered-table
+
 .. list-table::
    :widths: 30 30 30
    :align: center
    :class: borderless
 
    * - .. image:: _static/C3idea.png
-         :width: 100px
+          :width: 100px
+          :align: center
      - .. image:: _static/ccm.png
-         :width: 150px
+          :width: 150px
+          :align: center
      - .. image:: _static/solena.png
-         :class: logo-darkbg
-         :width: 150px
+          :class: logo-darkbg
+          :width: 150px
+          :align: center
 
 .. toctree::
    :maxdepth: 2
@@ -37,6 +47,6 @@ The CONAHCYT 320237 project funded this application.
    home_search.md
    anotated_genomes.md
    microbiome.md
-   plants_pathogens.md
+   plant_pathogens.md
    process_your_sample.md
    check_results.md

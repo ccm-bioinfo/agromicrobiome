@@ -24,6 +24,12 @@ source_suffix = ['.rst', '.md']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'alabaster'
+# html_theme = "classic"
+# html_theme_options = {
+#     "rightsidebar": "false",
+#     "relbarbgcolor": "black"
+# }
+html_show_sourcelink = False
 html_static_path = ['_static']
 html_favicon = '_static/logo_MicroAgroBiome.png'  # Path to the favicon file
 html_css_files = ['custom.css'] # Custom CSS file for additional styling (DAVID)
