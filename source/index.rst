@@ -43,10 +43,12 @@ The CONAHCYT 320237 project funded this application.
    :maxdepth: 2
    :caption: Contents:
 
-   home.md
-   home_search.md
-   anotated_genomes.md
-   microbiome.md
-   plant_pathogens.md
-   process_your_sample.md
-   check_results.md
+   01_home.md
+   02_home_search.md
+   03_anotated_genomes.md
+   04_microbiome.md
+   05_plant_pathogens.md
+   06_downloads.md
+   07_process_your_sample.md
+   08_check_results.md
+   09_examples.md
