@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Agromicrobiome'
+project = 'MicroAgroBiome'
 copyright = '2025, César Aguilar, Fernando Fontove-Herrera, David A. García-Estrada, Haydeé Contreras-Peruyero, Anton Pashkov, Shaday Guerrero-Flores, Nelly Sélem-Mojica'
 author = 'César Aguilar, Fernando Fontove-Herrera, David A. García-Estrada, Haydeé Contreras-Peruyero, Anton Pashkov, Shaday Guerrero-Flores, Nelly Sélem-Mojica'
 
