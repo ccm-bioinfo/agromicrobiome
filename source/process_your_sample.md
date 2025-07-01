@@ -1,6 +1,6 @@
 # Process your sample
 
-This section you can submit your sample to the Agromicrobiome Project. You can use different input formats, such as **kraken.report**, **braken.report** or **biom** files. 
+This section you can submit your sample to the MicroAgroBiome Project. You can use different input formats, such as **kraken.report**, **braken.report** or **biom** files. 
 
 **How to submit your sample:**
 

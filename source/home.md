@@ -1,8 +1,8 @@
 # Home Page
 
-Welcome to the **Agromicrobiome Project** portal. This page provides an overview of the project and access to its key features.
+Welcome to the **MicroAgroBiome Project** portal. This page provides an overview of the project and access to its key features.
 
-1. **Welcome to Agromicrobiome**
+1. **Welcome to MicroAgroBiome**
    
     A brief introduction to the project’s goals and scope.
 

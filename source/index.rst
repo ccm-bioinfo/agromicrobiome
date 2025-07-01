@@ -1,9 +1,9 @@
-.. Agromicrobiome Manual documentation master file, created by
+.. MicroAgroBiome Manual documentation master file, created by
    sphinx-quickstart on Sat Jun 21 11:07:37 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Agromicrobiome's documentation!
+Welcome to MicroAgroBiome's documentation!
 =================================================
 
 .. image:: _static/logo_MicroAgroBiome.png
@@ -11,7 +11,7 @@ Welcome to Agromicrobiome's documentation!
    :alt: Texto alternativo
    :align: center
 
-MicroAgrobiome gathers metagenomes collected from agriculturally relevant plants.
+MicroAgroBiome gathers metagenomes collected from agriculturally relevant plants.
 
 We processed these samples to obtain taxonomic and functional information about the plant-associated microbiome in a standardized way.
 

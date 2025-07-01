@@ -1,6 +1,6 @@
 # Annotated Genome
 
-After submitting your query for **Metagenome-Assembled Genomes (MAGs)** in the search section of the Agromicrobiome portal, you will be directed to the **Annotated Genomes** tab. This section provides detailed information about the MAGs associated with your selected plant and sample type.
+After submitting your query for **Metagenome-Assembled Genomes (MAGs)** in the search section of the MicroAgroBiome portal, you will be directed to the **Annotated Genomes** tab. This section provides detailed information about the MAGs associated with your selected plant and sample type.
 
 - `BIN ID`: Unique genome identifier  
 - `HOST NAME`: Source plant species  

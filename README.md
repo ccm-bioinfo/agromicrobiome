@@ -1,4 +1,4 @@
-# Agromicrobiome's documentation
+# MicroAgroBiome's documentation
 
 ### Setup
 
