@@ -1,4 +1,4 @@
-# Check resutls
+# Check results
 
 In this section, you can check the results of your sample processing. After submitting your sample in the **Process Your Sample** section, you will be redirected to this page to view the status and results of your sample. Or you can access this page directly to check the results of your sample by entering the **Run ID**.
 
